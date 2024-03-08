@@ -1,3 +1,16 @@
+# Welcome to iNoteBook, a full-stack Note-taking app.
+It has a react based front-end and separate Express.js Backend.
+To use this project: 
+(1) Make sure you have MongoDb Installed and Running on your machine.
+(2) Go to Backend. inside Db.js paste your MongoDb database link.
+(3) Open 2 terminals. 
+(4) 1st Terminal: 
+### `npm start`
+    2nd Terminal:
+### cd backend
+### `nodemon index.js`
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
