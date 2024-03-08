@@ -1,4 +1,5 @@
 # Welcome to iNoteBook, a full-stack Note-taking app.
+![iNoteBook](https://github.com/Kartikxz19/inotebook/assets/107644849/2c9e0a42-4784-4f9f-86fa-053bd892d42b)
 It has a react based front-end and separate Express.js Backend.
 To use this project: 
 (1) Make sure you have MongoDb Installed and Running on your machine.
